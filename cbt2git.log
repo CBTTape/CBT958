@@ -1,0 +1,17 @@
+2023-08-06 08:42:10.819014 - Initialized conversion of CBT958
+2023-08-06 08:42:10.921134 - Received CBT.V505.FILE958.PDS from FILE958.XMI 
+2023-08-06 08:42:10.923515 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:42:10.924549 - Found @FILE958.txt (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/@FILE958
+2023-08-06 08:42:10.925578 - Found BYE.txt (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/BYE
+2023-08-06 08:42:10.926479 - Found BYE$.jcl (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/BYE$
+2023-08-06 08:42:10.927479 - Found CMDLOFF.txt (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/CMDLOFF
+2023-08-06 08:42:10.928468 - Found CMDLOFF$.jcl (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/CMDLOFF$
+2023-08-06 08:42:10.929385 - Found NOLOGOF.jcl (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/NOLOGOF
+2023-08-06 08:42:10.930234 - Found RELOGON.jcl (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/RELOGON
+2023-08-06 08:42:10.931251 - Found SHOWRLG@.txt (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/SHOWRLG@
+2023-08-06 08:42:10.932208 - Found SHOWRLGB.jcl (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/SHOWRLGB
+2023-08-06 08:42:10.933116 - Found TSOB.rexx (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/TSOB
+2023-08-06 08:42:10.933966 - Found TSOE.rexx (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/TSOE
+2023-08-06 08:42:10.935034 - Found TSOR.rexx (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/TSOR
+2023-08-06 08:42:10.936012 - Found TSOV.rexx (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/TSOV
+2023-08-06 08:42:10.936894 - Found YESLOGOF.jcl (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/YESLOGOF
