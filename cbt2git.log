@@ -1,16 +1,16 @@
-2025-04-15 07:03:49.162195 - Received CBT.V505.FILE958.PDS from FILE958.XMI 
-2025-04-15 07:03:49.163437 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/$$$#DATE
-2025-04-15 07:03:49.163621 - Found @FILE958.txt (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/@FILE958
-2025-04-15 07:03:49.163819 - Found BYE.txt (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/BYE
-2025-04-15 07:03:49.163960 - Found BYE$.jcl (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/BYE$
-2025-04-15 07:03:49.164113 - Found CMDLOFF.txt (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/CMDLOFF
-2025-04-15 07:03:49.164254 - Found CMDLOFF$.jcl (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/CMDLOFF$
-2025-04-15 07:03:49.164373 - Found NOLOGOF.jcl (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/NOLOGOF
-2025-04-15 07:03:49.164532 - Found RELOGON.jcl (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/RELOGON
-2025-04-15 07:03:49.164655 - Found SHOWRLG@.txt (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/SHOWRLG@
-2025-04-15 07:03:49.164968 - Found SHOWRLGB.jcl (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/SHOWRLGB
-2025-04-15 07:03:49.165212 - Found TSOB.rexx (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/TSOB
-2025-04-15 07:03:49.165385 - Found TSOE.rexx (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/TSOE
-2025-04-15 07:03:49.165742 - Found TSOR.rexx (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/TSOR
-2025-04-15 07:03:49.165865 - Found TSOV.rexx (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/TSOV
-2025-04-15 07:03:49.166498 - Found YESLOGOF.jcl (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/YESLOGOF
+2025-04-16 01:47:22.882423 - Received CBT.V505.FILE958.PDS from FILE958.XMI 
+2025-04-16 01:47:22.883549 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/$$$#DATE
+2025-04-16 01:47:22.883618 - Found @FILE958.txt (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/@FILE958
+2025-04-16 01:47:22.883719 - Found BYE.txt (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/BYE
+2025-04-16 01:47:22.883782 - Found BYE$.jcl (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/BYE$
+2025-04-16 01:47:22.883844 - Found CMDLOFF.txt (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/CMDLOFF
+2025-04-16 01:47:22.883897 - Found CMDLOFF$.jcl (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/CMDLOFF$
+2025-04-16 01:47:22.883950 - Found NOLOGOF.jcl (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/NOLOGOF
+2025-04-16 01:47:22.884011 - Found RELOGON.jcl (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/RELOGON
+2025-04-16 01:47:22.884056 - Found SHOWRLG@.txt (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/SHOWRLG@
+2025-04-16 01:47:22.884117 - Found SHOWRLGB.jcl (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/SHOWRLGB
+2025-04-16 01:47:22.884183 - Found TSOB.rexx (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/TSOB
+2025-04-16 01:47:22.884301 - Found TSOE.rexx (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/TSOE
+2025-04-16 01:47:22.884368 - Found TSOR.rexx (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/TSOR
+2025-04-16 01:47:22.884432 - Found TSOV.rexx (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/TSOV
+2025-04-16 01:47:22.884485 - Found YESLOGOF.jcl (text/plain) in CBT.V505.FILE958.PDS, moved to PDS/YESLOGOF
